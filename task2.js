@@ -1,7 +1,3 @@
-console.log(process.argv[2])
-console.log(process.argv[3])
-//arr1 = process.argv[2].split()
-//arr2 = process.argv[3].split()
 var arr1= []
 var arr2 = []
 for(i=0;i<process.argv[2].length;i++)
