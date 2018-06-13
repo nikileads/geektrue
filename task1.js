@@ -1,4 +1,3 @@
-console.log(process.argv[2])
 thestring = process.argv[2]
 finalstring = ''
 for(i=0;i<thestring.length;i++)
